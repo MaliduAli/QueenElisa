@@ -19,7 +19,7 @@ module.exports = {
 
 𝙼𝚊𝚕𝚒𝚍𝚞 𝙷𝚊𝚗𝚜𝚊𝚗𝚊 ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: 'mongodb+srv://MHNTEST:MHNTEST@mhntest.8h9du.mongodb.net/', 
+  MONGODB_URL: 'mongodb+srv://malitest:625438@malitest.8h9du.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
